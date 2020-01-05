@@ -1,3 +1,1 @@
-# Resume
-个人简历（bootstrap）
-
+简历预览  https://treasureboy-liu.github.io/resume/index.html
